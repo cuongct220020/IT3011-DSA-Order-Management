@@ -1,5 +1,5 @@
 CMakeFiles/order_management.dir/src/utility.c.o: \
-  /Users/cuongct090_04/Code/IT3011-Kỳ\ 2024.2/order\ management\ project/src/utility.c \
+  /Users/cuongct090_04/Code/IT3011-Kỳ\ 2024.2/order\ management\ project/src/utility.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/_stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/_bounds.h \
@@ -134,8 +134,8 @@ CMakeFiles/order_management.dir/src/utility.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/sys/_pthread/_pthread_key_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/sys/_types/_fsblkcnt_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
-  /Users/cuongct090_04/Code/IT3011-Kỳ\ 2024.2/order\ management\ project/include/order_dish.h \
-  /Users/cuongct090_04/Code/IT3011-Kỳ\ 2024.2/order\ management\ project/include/utility.h \
+  /Users/cuongct090_04/Code/IT3011-Kỳ\ 2024.2/order\ management\ project/include/order_dish.h \
+  /Users/cuongct090_04/Code/IT3011-Kỳ\ 2024.2/order\ management\ project/include/utility.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stddef.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/stddef.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/__stddef_header_macro.h \

@@ -8,10 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/dish.c" "CMakeFiles/order_management.dir/src/dish.c.o" "gcc" "CMakeFiles/order_management.dir/src/dish.c.o.d"
-  "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/main.c" "CMakeFiles/order_management.dir/src/main.c.o" "gcc" "CMakeFiles/order_management.dir/src/main.c.o.d"
-  "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/order.c" "CMakeFiles/order_management.dir/src/order.c.o" "gcc" "CMakeFiles/order_management.dir/src/order.c.o.d"
-  "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/utility.c" "CMakeFiles/order_management.dir/src/utility.c.o" "gcc" "CMakeFiles/order_management.dir/src/utility.c.o.d"
+  "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/dish.c" "CMakeFiles/order_management.dir/src/dish.c.o" "gcc" "CMakeFiles/order_management.dir/src/dish.c.o.d"
+  "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/main.c" "CMakeFiles/order_management.dir/src/main.c.o" "gcc" "CMakeFiles/order_management.dir/src/main.c.o.d"
+  "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/order.c" "CMakeFiles/order_management.dir/src/order.c.o" "gcc" "CMakeFiles/order_management.dir/src/order.c.o.d"
+  "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/utility.c" "CMakeFiles/order_management.dir/src/utility.c.o" "gcc" "CMakeFiles/order_management.dir/src/utility.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

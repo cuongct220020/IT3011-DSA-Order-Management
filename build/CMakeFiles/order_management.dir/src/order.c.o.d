@@ -1,7 +1,7 @@
 CMakeFiles/order_management.dir/src/order.c.o: \
-  /Users/cuongct090_04/Code/IT3011-Kỳ\ 2024.2/order\ management\ project/src/order.c \
-  /Users/cuongct090_04/Code/IT3011-Kỳ\ 2024.2/order\ management\ project/include/order_dish.h \
-  /Users/cuongct090_04/Code/IT3011-Kỳ\ 2024.2/order\ management\ project/include/utility.h \
+  /Users/cuongct090_04/Code/IT3011-Kỳ\ 2024.2/order\ management\ project/src/order.c \
+  /Users/cuongct090_04/Code/IT3011-Kỳ\ 2024.2/order\ management\ project/include/order_dish.h \
+  /Users/cuongct090_04/Code/IT3011-Kỳ\ 2024.2/order\ management\ project/include/utility.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/_stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/_bounds.h \

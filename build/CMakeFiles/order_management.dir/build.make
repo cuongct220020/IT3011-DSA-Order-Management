@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project"
+CMAKE_SOURCE_DIR = "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/build"
+CMAKE_BINARY_DIR = "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/build"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/order_management.dir/depend.make
@@ -73,60 +73,60 @@ CMakeFiles/order_management.dir/codegen:
 .PHONY : CMakeFiles/order_management.dir/codegen
 
 CMakeFiles/order_management.dir/src/main.c.o: CMakeFiles/order_management.dir/flags.make
-CMakeFiles/order_management.dir/src/main.c.o: /Users/cuongct090_04/Code/IT3011-Kỳ\ 2024.2/order\ management\ project/src/main.c
+CMakeFiles/order_management.dir/src/main.c.o: /Users/cuongct090_04/Code/IT3011-Kỳ\ 2024.2/order\ management\ project/src/main.c
 CMakeFiles/order_management.dir/src/main.c.o: CMakeFiles/order_management.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/order_management.dir/src/main.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/order_management.dir/src/main.c.o -MF CMakeFiles/order_management.dir/src/main.c.o.d -o CMakeFiles/order_management.dir/src/main.c.o -c "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/main.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/order_management.dir/src/main.c.o"
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/order_management.dir/src/main.c.o -MF CMakeFiles/order_management.dir/src/main.c.o.d -o CMakeFiles/order_management.dir/src/main.c.o -c "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/main.c"
 
 CMakeFiles/order_management.dir/src/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/order_management.dir/src/main.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/main.c" > CMakeFiles/order_management.dir/src/main.c.i
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/main.c" > CMakeFiles/order_management.dir/src/main.c.i
 
 CMakeFiles/order_management.dir/src/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/order_management.dir/src/main.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/main.c" -o CMakeFiles/order_management.dir/src/main.c.s
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/main.c" -o CMakeFiles/order_management.dir/src/main.c.s
 
 CMakeFiles/order_management.dir/src/order.c.o: CMakeFiles/order_management.dir/flags.make
-CMakeFiles/order_management.dir/src/order.c.o: /Users/cuongct090_04/Code/IT3011-Kỳ\ 2024.2/order\ management\ project/src/order.c
+CMakeFiles/order_management.dir/src/order.c.o: /Users/cuongct090_04/Code/IT3011-Kỳ\ 2024.2/order\ management\ project/src/order.c
 CMakeFiles/order_management.dir/src/order.c.o: CMakeFiles/order_management.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/order_management.dir/src/order.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/order_management.dir/src/order.c.o -MF CMakeFiles/order_management.dir/src/order.c.o.d -o CMakeFiles/order_management.dir/src/order.c.o -c "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/order.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/order_management.dir/src/order.c.o"
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/order_management.dir/src/order.c.o -MF CMakeFiles/order_management.dir/src/order.c.o.d -o CMakeFiles/order_management.dir/src/order.c.o -c "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/order.c"
 
 CMakeFiles/order_management.dir/src/order.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/order_management.dir/src/order.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/order.c" > CMakeFiles/order_management.dir/src/order.c.i
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/order.c" > CMakeFiles/order_management.dir/src/order.c.i
 
 CMakeFiles/order_management.dir/src/order.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/order_management.dir/src/order.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/order.c" -o CMakeFiles/order_management.dir/src/order.c.s
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/order.c" -o CMakeFiles/order_management.dir/src/order.c.s
 
 CMakeFiles/order_management.dir/src/dish.c.o: CMakeFiles/order_management.dir/flags.make
-CMakeFiles/order_management.dir/src/dish.c.o: /Users/cuongct090_04/Code/IT3011-Kỳ\ 2024.2/order\ management\ project/src/dish.c
+CMakeFiles/order_management.dir/src/dish.c.o: /Users/cuongct090_04/Code/IT3011-Kỳ\ 2024.2/order\ management\ project/src/dish.c
 CMakeFiles/order_management.dir/src/dish.c.o: CMakeFiles/order_management.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/order_management.dir/src/dish.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/order_management.dir/src/dish.c.o -MF CMakeFiles/order_management.dir/src/dish.c.o.d -o CMakeFiles/order_management.dir/src/dish.c.o -c "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/dish.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/order_management.dir/src/dish.c.o"
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/order_management.dir/src/dish.c.o -MF CMakeFiles/order_management.dir/src/dish.c.o.d -o CMakeFiles/order_management.dir/src/dish.c.o -c "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/dish.c"
 
 CMakeFiles/order_management.dir/src/dish.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/order_management.dir/src/dish.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/dish.c" > CMakeFiles/order_management.dir/src/dish.c.i
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/dish.c" > CMakeFiles/order_management.dir/src/dish.c.i
 
 CMakeFiles/order_management.dir/src/dish.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/order_management.dir/src/dish.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/dish.c" -o CMakeFiles/order_management.dir/src/dish.c.s
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/dish.c" -o CMakeFiles/order_management.dir/src/dish.c.s
 
 CMakeFiles/order_management.dir/src/utility.c.o: CMakeFiles/order_management.dir/flags.make
-CMakeFiles/order_management.dir/src/utility.c.o: /Users/cuongct090_04/Code/IT3011-Kỳ\ 2024.2/order\ management\ project/src/utility.c
+CMakeFiles/order_management.dir/src/utility.c.o: /Users/cuongct090_04/Code/IT3011-Kỳ\ 2024.2/order\ management\ project/src/utility.c
 CMakeFiles/order_management.dir/src/utility.c.o: CMakeFiles/order_management.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/order_management.dir/src/utility.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/order_management.dir/src/utility.c.o -MF CMakeFiles/order_management.dir/src/utility.c.o.d -o CMakeFiles/order_management.dir/src/utility.c.o -c "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/utility.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/order_management.dir/src/utility.c.o"
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/order_management.dir/src/utility.c.o -MF CMakeFiles/order_management.dir/src/utility.c.o.d -o CMakeFiles/order_management.dir/src/utility.c.o -c "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/utility.c"
 
 CMakeFiles/order_management.dir/src/utility.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/order_management.dir/src/utility.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/utility.c" > CMakeFiles/order_management.dir/src/utility.c.i
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/utility.c" > CMakeFiles/order_management.dir/src/utility.c.i
 
 CMakeFiles/order_management.dir/src/utility.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/order_management.dir/src/utility.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/utility.c" -o CMakeFiles/order_management.dir/src/utility.c.s
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/src/utility.c" -o CMakeFiles/order_management.dir/src/utility.c.s
 
 # Object files for target order_management
 order_management_OBJECTS = \
@@ -144,7 +144,7 @@ order_management: CMakeFiles/order_management.dir/src/dish.c.o
 order_management: CMakeFiles/order_management.dir/src/utility.c.o
 order_management: CMakeFiles/order_management.dir/build.make
 order_management: CMakeFiles/order_management.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable order_management"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable order_management"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/order_management.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -156,6 +156,6 @@ CMakeFiles/order_management.dir/clean:
 .PHONY : CMakeFiles/order_management.dir/clean
 
 CMakeFiles/order_management.dir/depend:
-	cd "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project" "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project" "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/build" "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/build" "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/build/CMakeFiles/order_management.dir/DependInfo.cmake" "--color=$(COLOR)"
+	cd "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project" "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project" "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/build" "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/build" "/Users/cuongct090_04/Code/IT3011-Kỳ 2024.2/order management project/build/CMakeFiles/order_management.dir/DependInfo.cmake" "--color=$(COLOR)"
 .PHONY : CMakeFiles/order_management.dir/depend
 
